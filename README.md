@@ -13,7 +13,7 @@ This is a page built from the [Abstract Project][abstract] design at
 
 Although I followed the design most of the way, I became more interested in:
 - working out how to use SVG Sprites,
-- breaking down Javascript into modules,
+- breaking down Javascript into modules, and
 - coordinating CSS Media queries and Javascript to control the mobile menu,
 
 than absolute fidelity to the design.
