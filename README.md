@@ -11,6 +11,12 @@ permalink: /index.html
 This is a page built from the [Abstract Project][abstract] design at
 [Frontend Practice][frontend].
 
+Although I followed the design most of the way, I became more interested in:
+- working out how to use SVG Sprites,
+- breaking down Javascript into modules,
+- coordinating CSS Media queries and Javascript to control the mobile menu,
+than absolute fidelity to the design.
+
 ## HTML
 
 - `template` used for individual 'cards'.
@@ -40,29 +46,17 @@ This is a page built from the [Abstract Project][abstract] design at
 
 - To simulate a database I've pulled in the individual cards via `cards.json`.
 
+## Accessibility
+- `ARIA` and `role` attributes used as required.
+
 ## Sources
-
-### Frontend Practice
-
-- [Abstract Project][abstract]
-
-### Mobile Menu
-
-- [Hamburger animation][codepen]
+- [Frontend Practice Abstract Project][abstract]
+- [Hamburger menu icon animation][codepen]
 - [Accessibility for Hamburger Menu][accessibility]
-
-### SVG Icons
-
 - [SVG Editor][svgEditor]
-- [Boxicons][boxicons]
-
-### SVG Sprite
-
+- [Boxicons (free SVG icons)][boxicons]
 - [How to create and use an SVG Sprite][sprite]
-
-### Responsive Typography
-
-- [Font-size Clamp Generator][clamp]
+- [Font-size Clamp Generator for responsive typography][clamp]
 
 ## Testing
 
